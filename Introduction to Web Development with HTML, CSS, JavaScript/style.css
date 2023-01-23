@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+    font-family: arial;
+    color:white;
+}
+h1{
+    color:grey;
+    font-family: verdana;
+}
+
+.maindiv{
+    background-color: white;
+    color: black;
+    width: 480px;
+    padding: 20px;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+}
+
+#principal{
+    margin-left: 70px;
+}
+
+#rate{
+    margin-left: 34px;
+}
+
+#years{
+    margin-left: 40px;
+}
+
+.inputs{
+    margin-left: 50px;
+}
